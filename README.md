@@ -11,7 +11,7 @@ The most important aspect of this application is the graphic design used in orde
 
 1. Donwload and unzip the repository folder.
 
-2. Open the nike.html file with Google Chrome to see the project.
+2. Open the index.html file with Google Chrome to see the project.
 
 3. Click the "ADD TO CARD" button, to see a special effect used to attrack the attention of possible customers.
 
